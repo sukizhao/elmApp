@@ -30,7 +30,11 @@ vue2 + vuex2 + vue-router + webpack + ES6/7 + fetch + sass + flex + svg + http-p
 
 ```
 克隆，或者直接下载
+<<<<<<< HEAD
 git clone https://github.com/sukizhao/elmApp.git 
+=======
+git clone https://github.com/sukizhao/elmApp.git
+>>>>>>> fa8e0c46535a6dbd9f490e89001da9ad9c310d71
 
 进入文件夹
 cd elmApp
@@ -63,6 +67,15 @@ npm run build
 
 >  本项目主要用于熟悉如何用 vue2 架构一个大型项目
 
+<<<<<<< HEAD
+=======
+>  如有问题请直接在 Issues 中提，或者可以加我的QQ 852056893
+
+>  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
+
+>  或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
+
+>>>>>>> fa8e0c46535a6dbd9f490e89001da9ad9c310d71
 >  开发环境 macOS 10.12.3  Chrome 55
 
 
@@ -222,6 +235,16 @@ npm run build
 
 6、项目写到现在，从 登陆注册到、首页、搜索、商家列表、购物车、下单、订单列表、个人中心 一个流程走完之后、不但对vue的理解更深一层，而且对以后掌控大型项目的时候也有非常多的帮助，做一个实际的项目才能对自己有很大的提升。
 
+<<<<<<< HEAD
+=======
+7、已完成的页面共 35 个，项目已经慢慢开始接近尾声。
+
+
+
+
+
+
+>>>>>>> fa8e0c46535a6dbd9f490e89001da9ad9c310d71
 
 ## 部分项目截图
 
