@@ -30,7 +30,7 @@ vue2 + vuex2 + vue-router + webpack + ES6/7 + fetch + sass + flex + svg + http-p
 
 ```
 克隆，或者直接下载
-git clone https://github.com/bailicangdu/vue2-elm.git  
+git clone https://github.com/sukizhao/elmApp.git
 
 进入文件夹
 cd vue2-elm
@@ -63,7 +63,7 @@ npm run build
 
 >  本项目主要用于熟悉如何用 vue2 架构一个大型项目
 
->  如有问题请直接在 Issues 中提，或者可以加我的QQ 1264889788
+>  如有问题请直接在 Issues 中提，或者可以加我的QQ 852056893
 
 >  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
 
@@ -253,13 +253,6 @@ npm run build
 
 
 
-## 最后定一个小目标
-
-1、后续我会用node.js构建一个模拟外卖平台的后台系统，满足这个项目所需要的后台接口，不再用饿了么的数据，并进行同构，实现前后端分离。
-
-2、利用 react-native 写出跨 Android 和 IOS 的原生APP版本。
-
-。。。敬请期待
 
 
 
