@@ -30,10 +30,10 @@ vue2 + vuex2 + vue-router + webpack + ES6/7 + fetch + sass + flex + svg + http-p
 
 ```
 克隆，或者直接下载
-git clone https://github.com/bailicangdu/vue2-elm.git  
+git clone https://github.com/sukizhao/elmApp.git 
 
 进入文件夹
-cd vue2-elm
+cd elmApp
 
 安装依赖
 npm install
@@ -63,34 +63,7 @@ npm run build
 
 >  本项目主要用于熟悉如何用 vue2 架构一个大型项目
 
->  如有问题请直接在 Issues 中提，或者可以加我的QQ 1264889788
-
->  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
-
->  或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
-
 >  开发环境 macOS 10.12.3  Chrome 55
-
->  特别感谢辰妹子，在百忙之中抽出时间和我一起完成了这个项目，辛苦了🌹
-
->  推荐一个 react + redux 开源项目，对react感兴趣的朋友赶紧去看看。[地址在这里](https://github.com/bailicangdu/react-pxq)
-
->  另外一个 vue2 + vuex2 的入门项目，比当前的项目简单很多，非常适合入门练习。[地址在这里](https://github.com/bailicangdu/vue2-happyfri)
-
-
-
-## 效果演示
-
-#### (演示demo是上个月版本，使用的是模拟数据，ios会出现卡顿的现象，且很多已修复的bug未更新，最新效果请clone代码并运行，我会尽快更新demo);
-
-[demo地址](http://test.fe.ptdev.cn/elm/)（请用chrome手机模式预览）
-   
-### 移动端扫描下方二维码
-
-![](https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/elm_ewm.png)
-
-
-
 
 
 ## 目标功能
@@ -249,58 +222,44 @@ npm run build
 
 6、项目写到现在，从 登陆注册到、首页、搜索、商家列表、购物车、下单、订单列表、个人中心 一个流程走完之后、不但对vue的理解更深一层，而且对以后掌控大型项目的时候也有非常多的帮助，做一个实际的项目才能对自己有很大的提升。
 
-7、已完成的页面共 35 个，项目已经慢慢开始接近尾声。
-
-
-
-## 最后定一个小目标
-
-1、后续我会用node.js构建一个模拟外卖平台的后台系统，满足这个项目所需要的后台接口，不再用饿了么的数据，并进行同构，实现前后端分离。
-
-2、利用 react-native 写出跨 Android 和 IOS 的原生APP版本。
-
-。。。敬请期待
-
-
-
 
 ## 部分项目截图
 
 
 ### 商铺列表页
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.png" width="365" height="619"/>
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/msite.gif" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/msite.png" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/msite.gif" width="365" height="619"/>
 
 
 ### 商铺筛选页
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.png" width="365" height="619"/>
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/food.gif" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/food.png" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/food.gif" width="365" height="619"/>
 
 
 ### 餐馆食品列表与购物车
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/shop_cart.png" width="365" height="619"/>
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/shop_cart.gif" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/shop_cart.png" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/shop_cart.gif" width="365" height="619"/>
 
 
 
 ### 登陆页
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/login1.png" width="365" height="619"/>
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/login2.png" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/login1.png" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/login2.png" width="365" height="619"/>
 
 
 ### 个人中心
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/profile.png" width="365" height="619"/>
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/profile2.png" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/profile.png" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/profile2.png" width="365" height="619"/>
 
 
 
 ### 确认订单页
 
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/confirm1.png" width="365" height="619"/>
-<img src="https://github.com/bailicangdu/vue2-elm/blob/master/screenshots/confirmOrder.gif" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/confirm1.png" width="365" height="619"/>
+<img src="https://github.com/sukizhao/elmApp/blob/master/screenshots/confirmOrder.gif" width="365" height="619"/>
 
